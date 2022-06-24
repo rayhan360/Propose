@@ -1,0 +1,30 @@
+body{
+    background: url('image/love2.jpg') no-repeat center center/cover ;
+}
+#button-area{
+    text-align: center;
+   
+}
+#button-area h1{
+    font-size: 100px;
+    color: red;
+}
+
+#button{
+    background-color: cyan;
+    margin: 20px;
+    padding: 10px;
+    cursor: pointer;
+    border-radius: 5px;
+    text-decoration: none;
+}
+
+#content-area h1{
+    display: none;
+}
+
+.route-button {
+    text-decoration: none;
+    color: black;
+}
+
